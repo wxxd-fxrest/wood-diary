@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "wood-diary",
+    "slug": "wood-diary",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "wood-diary"
+}
